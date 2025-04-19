@@ -7,7 +7,7 @@ Human Motion Prediction" (IJCRSET#177).
 
 Human Motion Prediction is developed to project human motion in the future frames. With lots of papers tend to predict
 the
-future motion via Recurrent Neural Network (RNN), Multi-Layer Perceptron (MLP), or Graph Convolution Network (GCN),
+future motion via Recurrent Neural Network, Multi-Layer Perceptron, or Graph Convolution Network,
 many complicated motions have been predicted more accurately. However, most existing methods have met drawbacks in
 longterm predictions. To make the long-term prediction better, we propose a network called DAFCN, using Fast Fourier
 Convolution
