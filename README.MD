@@ -3,6 +3,8 @@
 This repository is the official implementation of the paper "A Dual-Path Attention Fourier Convolutional Network for
 Human Motion Prediction" (IJCRSET#177).
 
+![The structure of DAFCN](./assets/DAFCN.png)
+
 ## Abstract
 
 Human Motion Prediction is developed to project human motion in the future frames. With lots of papers tend to predict
