@@ -1,7 +1,6 @@
 # A Dual-Path Attention Fourier Convolutional Network for Human Motion Prediction
 
-This repository is the official implementation of the paper "A Dual-Path Attention Fourier Convolutional Network for
-Human Motion Prediction" (IJCRSET#177).
+This repository is the official implementation of the paper "A Dual-Path Attention Fourier Convolutional Network for Human Motion Prediction" (IJCRSET#177). [[Paper Link](https://urfjournals.org/open-access/a-dual-path-attention-fourier-convolutional-network-for-human-motionrnprediction.pdf)] 
 
 ![The structure of DAFCN](./assets/DAFCN.png)
 
@@ -67,3 +66,18 @@ python test.py --data_dir path/to/dataset/Human3.6M --model_path checkpoint/trai
 ```
 
 And the result file will be presented in `checkpoint/train_in50_out10_ks10_dctn20`.
+
+# Citation
+
+```PlainText
+@article{lu2025dual,
+  author       = {Chengjie Lu},
+  title        = {A Dual-Path Attention Fourier Convolutional Network for Human Motion Prediction},
+  journal      = {International Journal of Current Research in Science, Engineering and Technology},
+  year         = {2025},
+  volume       = {8},
+  number       = {1},
+  pages        = {275--279},
+  doi          = {10.30967/IJCRSET/Chengjie-Lu/177}
+}
+```
